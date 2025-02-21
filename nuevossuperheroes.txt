@@ -1,0 +1,15 @@
+[
+  {
+    "id": 4,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": ["Controlar el trueno", "Fuerza sobrehumana", "Inmortal"],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": ["Loki"],
+    "enemigo": ["Hela"]
+  }
+]
